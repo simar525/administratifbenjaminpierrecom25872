@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://benjaminpierre.com/$1"
+ }
+  ]
+}
